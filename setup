@@ -7,6 +7,6 @@
 "descPromote" : "Please update new app, this old app will not support soon. Watch High Quality HD Movies",
 "thumbPromote" : "https://lh3.googleusercontent.com/YNvnfjtsDlwp6zE2TklYItijbX2ymeqRJm04FkZxUT0GZOAhA4yFxAen7bl5hKkqwYg=s180-rw",
 
-"adsInterval" : 5,
-"useFAN" : false
+"adsInterval" : 4,
+"useFAN" : true
 }
