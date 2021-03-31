@@ -16,4 +16,6 @@ javascript: (function() {
         while(popups.length > 0){
             popups[0].parentNode.removeChild(popups[0]);
     }
+    
+    document.getElementById("middle_banner").remove();
 })()
