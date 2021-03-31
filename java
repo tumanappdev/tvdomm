@@ -17,5 +17,10 @@ javascript: (function() {
             popups[0].parentNode.removeChild(popups[0]);
     }
     
+    var bnrs3 = document.getElementsByClassName('liveshopping-banner js-component');
+        while(bnrs3.length > 0){
+            bnrs3[0].parentNode.removeChild(bnrs3[0]);
+    }
+    
     document.getElementById("middle_banner").remove();
 })()
